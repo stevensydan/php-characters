@@ -1,0 +1,27 @@
+img {
+	max-width:100px;
+      	max-height:100px;
+     	width: auto;
+	height: auto;
+}
+
+table {
+	border-collapse: collapse;
+	border: 0px;
+	width: 50%;
+	margin-top: 10px;
+	margin-left: 25px;
+	background-color: #242F39;
+
+}
+
+tr.title {
+	background-color: #242F39;
+}
+
+
+td.title {
+	width: 75px;
+	height: 100px;
+	color: #07C97B;
+}
